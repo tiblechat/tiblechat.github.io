@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9dfdaa36.chunk.css",
+    "main.js": "/static/js/main.10abcaa5.chunk.js",
+    "main.js.map": "/static/js/main.10abcaa5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b240f91f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b240f91f.js.map",
+    "static/css/2.6a23f8e0.chunk.css": "/static/css/2.6a23f8e0.chunk.css",
+    "static/js/2.c31ac833.chunk.js": "/static/js/2.c31ac833.chunk.js",
+    "static/js/2.c31ac833.chunk.js.map": "/static/js/2.c31ac833.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.90b6f86b2269bc673859813cb57ba19c.js": "/precache-manifest.90b6f86b2269bc673859813cb57ba19c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6a23f8e0.chunk.css.map": "/static/css/2.6a23f8e0.chunk.css.map",
+    "static/css/main.9dfdaa36.chunk.css.map": "/static/css/main.9dfdaa36.chunk.css.map",
+    "static/media/Ethereum_logo_2014.svg": "/static/media/Ethereum_logo_2014.fb666fbb.svg",
+    "static/media/dtube.png": "/static/media/dtube.a89a5c8c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b240f91f.js",
+    "static/css/2.6a23f8e0.chunk.css",
+    "static/js/2.c31ac833.chunk.js",
+    "static/css/main.9dfdaa36.chunk.css",
+    "static/js/main.10abcaa5.chunk.js"
+  ]
+}
