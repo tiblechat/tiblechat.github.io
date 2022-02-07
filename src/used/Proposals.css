@@ -1,0 +1,12 @@
+.card-text{
+  font-size:30px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+
+/* .card{
+  width: 40rem;
+
+} */ 
